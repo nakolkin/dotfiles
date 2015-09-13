@@ -17,4 +17,4 @@ fi
 source /usr/local/share/zsh/site-functions/_aws
 
 # Run the following in your shell to set the Docker env
-eval "$(docker-machine env default)"
+# eval "$(docker-machine env default)"
