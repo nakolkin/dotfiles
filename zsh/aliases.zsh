@@ -211,3 +211,8 @@ alias dbmu='spring rake db:migrate:up'
 
 # Homebrew
 alias brewu='brew update  && brew upgrade && brew cleanup && brew prune && brew doctor'
+
+# Mine 
+
+alias v='f -e vim'  # quick opening files with vim
+alias e='f -e subl'  # quick opening files with sublime
