@@ -127,7 +127,7 @@
   path = .gitconfig.user
 [user]
   name = Nikolaenko, Artem
-  email = Artem.Nikolaenko@neustar.biz
+	email = Artem.Nikolaenko@team.neustar
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
