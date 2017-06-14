@@ -4,7 +4,6 @@ path=(
   $HOME/.yadr/bin
   $HOME/.yadr/bin/yadr
 )
-
 export PATH=$PATH:$HOME/.yadr/bin:$HOME/.yadr/bin/yadr
 export JAVA_HOME="`/usr/libexec/java_home -v '1.8*'`"
 #export PHANTOMJS_BIN=/usr/local/Cellar/phantomjs/1.9.8/bin
@@ -16,4 +15,3 @@ export P4PASSWD=artem
 export P4CLIENT=artem-temamac
 export PATH=$PATH:$P4_HOME
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-
