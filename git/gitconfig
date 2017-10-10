@@ -125,3 +125,10 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	email = Artem.Nikolaenko@team.neustar
+	name = Nikolaenko, Artem
+[github]
+	user = nakolkin
+[ghi]
+	token = !security find-internet-password -a nakolkin -s github.com -l 'ghi token' -w
